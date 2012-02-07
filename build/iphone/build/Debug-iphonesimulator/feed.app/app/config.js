@@ -1,0 +1,1 @@
+/Users/matsuokahideki/Documents/Titanium Studio Workspace/feed/Resources/app/config.js
